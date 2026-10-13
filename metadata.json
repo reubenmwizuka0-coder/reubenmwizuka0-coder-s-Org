@@ -1,0 +1,8 @@
+{
+  "name": "eFootball Arena",
+  "description": "Tips, guides and news for eFootball players covering formations, dream team, gameplay tactics, and community links.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

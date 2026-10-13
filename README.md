@@ -1,11 +1,15 @@
-<div align="center">
+# eFootball Arena
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A modern React application providing tips, guides, formation breakdowns, and news for eFootball players.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Guides**: Dream Team squad building tactics and detailed formation breakdowns (4-3-3, 4-2-3-1, 3-5-2).
+- **Pitch Visual**: Classic stadium pitch visual with center-circle styling.
+- **Tips**: Strategic insights for online match tactics, shooting, and passing mechanics.
+- **News**: Latest updates on player packs, weekly reviews, and patch notes.
+- **Community**: Links to Discord, YouTube, and Instagram.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Tech Stack
+- React 18
+- TypeScript
+- Vite
